@@ -11,6 +11,7 @@ const productos = [
   { id: 4, nombre: "Tablet", precio: 399, imagen: "📱" },
   { id: 5, nombre: "Smartwatch", precio: 249, imagen: "⌚" },
   { id: 6, nombre: "Cámara", precio: 799, imagen: "📷" },
+  { id: 7, nombre: "Tv", precio: 999, imagen: "📺" },
 ];
 
 function App() {
